@@ -2,7 +2,7 @@
 
 - Meu nome é: Renan Junqueira Ferreira
 
-- Estou estudando na alura
+- Estou estudando com a platafoma alura
 - estou desenvolvendo na linguagem JavaScript
 - utilizo essa plataforma para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
 
