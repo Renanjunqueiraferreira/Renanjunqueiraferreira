@@ -8,6 +8,5 @@
 
 - ### Vocé pode entrar em contato comigo
 renan.junqueira.ofc@gmail.com
-
-![](https://tenor.com/pt-BR/view/simpson-gif-25340727)
+)
 
